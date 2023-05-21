@@ -21,3 +21,6 @@ git clone https://github.com/SomeDealAnywhere/dwm.git
 cd dwm
 sudo make install
 ````
+# My other builds
+- [dmenu](https://github.com/SomeDealAnywhere/dmenu)
+- [st](https://github.com/SomeDealAnywhere/st)
