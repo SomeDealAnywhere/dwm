@@ -14,6 +14,8 @@ This is my personal build of [suckless'](https://suckless.org/) [dwm](https://dw
 - [vanitygaps](https://dwm.suckless.org/patches/vanitygaps/)
 - [xresources](https://dwm.suckless.org/patches/xresources/)
 
+The color-scheme matches the [Dracula](https://draculatheme.com/) theme.
+
 # Installation 
 ````bash
 git clone https://github.com/SomeDealAnywhere/dwm.git
