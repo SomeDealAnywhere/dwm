@@ -19,8 +19,5 @@ The color-scheme matches the [Dracula](https://draculatheme.com/) theme.
 ````bash
 git clone https://github.com/SomeDealAnywhere/dwm.git
 cd dwm
-sudo make install
+sudo make clean install
 ````
-# My other builds
-- [dmenu](https://github.com/SomeDealAnywhere/dmenu)
-- [st](https://github.com/SomeDealAnywhere/st)
