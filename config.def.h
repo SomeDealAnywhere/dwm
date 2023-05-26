@@ -17,9 +17,9 @@ static       int smartgaps          = 0;    /* 1 means no outer gap when there i
 static int showbar                  = 1;    /* 0 means no bar */
 static int topbar                   = 1;    /* 0 means bottom bar */
 static const int user_bh            = 20;    /* 0 means that dwm will calculate bar height, >= 1 means dwm will user_bh as bar height */
-static char font[]                  = "Lucida Sans:size=10:antialias=true:hinting=true";
-static char dmenufont[]             = "Lucida Sans:size=10:antialias=true:hinting=true";
-static const char *fonts[]          = { "Lucida Sans:size=10:antialias=true:hinting=true", "NotoColorEmoji:pixelsize=10:antialias=true:hinting=true" };
+static char font[]                  = "sans:size=10:antialias=true:hinting=true";
+static char dmenufont[]             = "sans:size=10:antialias=true:hinting=true";
+static const char *fonts[]          = { "sans:size=10:antialias=true:hinting=true", "NotoColorEmoji:pixelsize=10:antialias=true:hinting=true" };
 static char normbgcolor[]           = "#1e1f29";
 static char normbordercolor[]       = "#1b1c25";
 static char normfgcolor[]           = "#f8f8f2";
